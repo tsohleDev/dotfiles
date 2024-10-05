@@ -1,0 +1,2 @@
+- Highlight and get tested/examined
+- Highligh and "Ask for clarity or metaphors"
